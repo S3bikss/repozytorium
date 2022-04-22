@@ -1,1 +1,1 @@
-# repozytorium
+# repo
